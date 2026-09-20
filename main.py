@@ -973,3 +973,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+status: "dnd",
+      afk: false,
